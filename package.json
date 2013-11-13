@@ -1,0 +1,22 @@
+{
+  "name": "node-drawing-game",
+  "version": "0.0.1",
+  "description": "This is a mirror of http://tutorialzine.com/2012/08/nodejs-drawing-game/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bunnyyiu/node-drawing-game.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/bunnyyiu/node-drawing-game/issues"
+  },
+  "homepage": "https://github.com/bunnyyiu/node-drawing-game",
+  "dependencies": {
+    "node-static": "~0.7.2",
+    "socket.io": "~0.9.16"
+  }
+}
